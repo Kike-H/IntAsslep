@@ -26,14 +26,14 @@ This an activity for the class of concurrent programming.
 
 ### Compile 
 
-```bash
-./.compiler.bat
+```cmd
+.\.compiler.bat
 ```
 
 ### Execute 
 
-```bash
-./.execute.bat
+```cmd
+.\.execute.bat
 ```
 # Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
