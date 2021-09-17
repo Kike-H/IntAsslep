@@ -1,2 +1,2 @@
 cd build
-	\java -cp . com.app.App
+java -cp . com.app.App

@@ -1,2 +1,2 @@
 cd src/
-	\javac -d ../build/ com/app/*.java   
+javac -d ../build/ com/app/*.java   
